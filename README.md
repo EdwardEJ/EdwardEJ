@@ -5,3 +5,5 @@
 - MMA enthusiast 
 
 Skills: React | Redux | Node | Express | Javascript | HTML | CSS | SASS | Python
+
+📫 How to reach me: jesus.e.estrada@hotmail.com 
