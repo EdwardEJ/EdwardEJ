@@ -1,6 +1,6 @@
 ### Hi there 👋, my name's Edward
 #### Welcome to my github
-- Cinema lover
+- Film admirer
 - Avid homecook
 - MMA enthusiast 
 
