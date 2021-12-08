@@ -1,7 +1,7 @@
 ### Hi there 👋, my name's Edward
 #### Welcome to my github
 - Film admirer
-- Avid homecook
+- Professional homecook
 - MMA enthusiast 
 
 Skills: React | Redux | Node | Express | Javascript | HTML | CSS | SASS | Python
