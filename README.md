@@ -6,4 +6,4 @@
 
 Skills: React | Redux | Node | Express | Javascript | HTML | CSS | SASS | Python
 
-Portfolio: https://edwardestrada.vercel.app/
+Portfolio: https://edwardej.vercel.app/
